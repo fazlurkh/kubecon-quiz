@@ -204,7 +204,7 @@ export default function Leaderboard() {
           </div>
         </div>
         <div style={styles.headerRight}>
-          <img src="/kccnc-india-2026-color.png" alt="KubeCon India 2026" style={styles.kcLogo} />
+          <img src="/KCDGujaratLogoSmall500x500.png" alt="KCD Gujarart 2026" style={styles.kcLogo} />
         </div>
       </header>
 
