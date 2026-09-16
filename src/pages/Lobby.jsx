@@ -96,7 +96,7 @@ export default function Lobby() {
             <div style={styles.badge}>LIVE QUIZ</div>
           </div>
           <div style={styles.headerRight}>
-            <img src="/kccnc-india-2026-color.png" alt="KubeCon India 2026" style={styles.kcLogo} />
+            <img src="/KCDGujaratLogoSmall500x500.png" alt="KCD Gujarat 2026" style={styles.kcLogo} />
           </div>
         </header>
         <div style={styles.waitingContent}>
@@ -119,7 +119,7 @@ export default function Lobby() {
             <div style={styles.badge}>LIVE QUIZ</div>
           </div>
           <div style={styles.headerRight}>
-            <img src="/kccnc-india-2026-color.png" alt="KubeCon India 2026" style={styles.kcLogo} />
+            <img src="/KCDGujaratLogoSmall500x500.png" alt="KCD Gujarat 2026" style={styles.kcLogo} />
           </div>
         </header>
         <div style={styles.waitingContent}>
@@ -148,7 +148,7 @@ export default function Lobby() {
           <div style={styles.badge}>LIVE QUIZ</div>
         </div>
         <div style={styles.headerRight}>
-          <img src="/kccnc-india-2026-color.png" alt="KubeCon India 2026" style={styles.kcLogo} />
+          <img src="/KCDGujaratLogoSmall500x500.png" alt="KCD Gujarat 2026" style={styles.kcLogo} />
         </div>
       </header>
 
