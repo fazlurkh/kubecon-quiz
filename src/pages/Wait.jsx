@@ -70,7 +70,7 @@ export default function Wait() {
         <div style={styles.logoRow}>
           <img src="/lf-stacked-color.png" alt="Linux Foundation" style={styles.lfLogo} />
           <div style={styles.logoDivider} />
-          <img src="/kccnc-india-2026-color.png" alt="KubeCon India 2026" style={styles.kcLogo} />
+          <img src="/KCDGujaratLogoSmall500x500.png" alt="KCD Gujarat 2026" style={styles.kcLogo} />
         </div>
 
         {participant && (
