@@ -378,10 +378,10 @@ export default function Leaderboard() {
 </div>
       <div style={styles.ticker}>
         <div style={styles.tickerInner}>
-          KubeCon + CloudNativeCon India 2026 &nbsp;✦&nbsp;
+          KCD Gujarat 2026 &nbsp;✦&nbsp;
           {lastAnswerCount} answers submitted &nbsp;✦&nbsp;
           Kubernetes · Prometheus · Envoy · Argo · Cilium · Istio &nbsp;✦&nbsp;
-          KubeCon + CloudNativeCon India 2026 &nbsp;✦&nbsp;
+          KCD Gujarat 2026 &nbsp;✦&nbsp;
           Linux Foundation &nbsp;✦&nbsp;
           Cloud Native Computing Foundation &nbsp;✦&nbsp;
         </div>
