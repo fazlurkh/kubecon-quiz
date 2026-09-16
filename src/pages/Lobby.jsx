@@ -127,7 +127,7 @@ export default function Lobby() {
         </div>
         <div style={styles.ticker}>
           <div style={styles.tickerInner}>
-            ☸ KubeCon + CloudNativeCon India 2026 &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
+            ☸ KCD Gujarat 2026 &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
             Linux Foundation &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
             Cloud Native Computing Foundation &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
             Kubernetes · Prometheus · Envoy · Argo · Cilium · Istio &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
@@ -194,11 +194,11 @@ export default function Lobby() {
 
       <div style={styles.ticker}>
         <div style={styles.tickerInner}>
-          ☸ KubeCon + CloudNativeCon India 2026 &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
+          ☸ KCD Gujarat 2026 &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
           Linux Foundation &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
           Cloud Native Computing Foundation &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
           Kubernetes · Prometheus · Envoy · Argo · Cilium · Istio &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
-          ☸ KubeCon + CloudNativeCon India 2026 &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
+          ☸ KCD Gujarat 2026 &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
           Linux Foundation &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;
           Cloud Native Computing Foundation &nbsp;&nbsp;&nbsp; ✦
         </div>
